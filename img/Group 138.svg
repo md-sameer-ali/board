@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="261.279" height="67.131" viewBox="0 0 261.279 67.131">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_7" data-name="Rectangle 7" width="133.256" height="35.96" fill="#141e23"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_8" data-name="Rectangle 8" width="195.655" height="35.96" fill="#141e23"/>
+    </clipPath>
+  </defs>
+  <g id="Group_138" data-name="Group 138" transform="translate(-380.721 221)">
+    <g id="Group_13" data-name="Group 13" transform="translate(436.915 -221)" opacity="0.99">
+      <g id="Group_12" data-name="Group 12">
+        <g id="Group_11" data-name="Group 11" clip-path="url(#clip-path)">
+          <text id="Board" transform="translate(0 27.192)" fill="#141e23" font-size="32" font-family="Raleway-Bold, Raleway" font-weight="700"><tspan x="0" y="0">Boa</tspan><tspan y="0" letter-spacing="-0.025em">r</tspan><tspan y="0">d</tspan></text>
+          <text id="of_" data-name="of " transform="translate(95.075 27.192)" fill="#141e23" font-size="32" font-family="Raleway-Regular, Raleway"><tspan x="0" y="0" letter-spacing="-0.007em">o</tspan><tspan y="0" letter-spacing="-0.02em">f</tspan><tspan y="0"> </tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Group_16" data-name="Group 16" transform="translate(446.345 -189.829)" opacity="0.99">
+      <g id="Group_15" data-name="Group 15">
+        <g id="Group_14" data-name="Group 14" clip-path="url(#clip-path-2)">
+          <text id="Directors" transform="translate(0 27.192)" fill="#141e23" font-size="32" font-family="Raleway-Bold, Raleway" font-weight="700"><tspan x="0" y="0">Di</tspan><tspan y="0" letter-spacing="-0.026em">r</tspan><tspan y="0">ec</tspan><tspan y="0" letter-spacing="-0.012em">t</tspan><tspan y="0">ors</tspan></text>
+          <text id="Pro" transform="translate(144.503 27.192)" fill="#141e23" font-size="32" font-family="Raleway-Regular, Raleway"><tspan x="0" y="0">P</tspan><tspan y="0" letter-spacing="-0.025em">r</tspan><tspan y="0">o</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Group_28" data-name="Group 28">
+      <path id="Path_22" data-name="Path 22" d="M62.266,63.258A13.411,13.411,0,0,1,59.4,67.546c.019.016.037.035.056.053,8.073,1.76,12.46,8.506,12.46,16.607,0,9.384-6.169,16.994-16.8,16.994H45.608V93.75H40.162v12.3H55.123c13.581,0,22.441-9.381,22.441-21.849,0-10.066-5.837-18.227-15.3-20.948" transform="translate(352.597 -265.298)" fill="#2cdd88"/>
+      <path id="Path_23" data-name="Path 23" d="M24.08,28.57a9.013,9.013,0,0,0,1.728-.554A9.739,9.739,0,0,0,30.65,23.4a9.854,9.854,0,0,0,.567-1.381,11.134,11.134,0,0,0,.54-3.488,13.127,13.127,0,0,0-.072-1.391c-.618-5.81-5.136-9.764-12.2-9.764H0V51.142H19.948c8,0,12.663-4.788,12.663-11.81,0-5.248-3.871-10.039-8.53-10.762M18.832,46.287H5.446V12.234H18.57c3.78,0,6.206,1.859,7.126,4.507a7.819,7.819,0,0,1,.42,2.579A7.948,7.948,0,0,1,25.8,21.6c-.829,2.817-3.3,4.743-7.228,4.743H15.748V31.2h3.084c5.379,0,8.135,3.542,8.135,7.543,0,4.66-3.018,7.546-8.135,7.546" transform="translate(380.721 -226.167)" fill="#2cdd88"/>
+    </g>
+  </g>
+</svg>
